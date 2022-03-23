@@ -8,7 +8,7 @@
     "url": "https://github.com/westonsoftware"
   },
   "scripts": {
-    "start": "node server -ssl"
+    "start": "node server"
   },
   "engines": {
     "node": "~14.16.x"
